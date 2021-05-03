@@ -1,0 +1,139 @@
+
+* {
+  box-sizing: border-box;
+  // color: #fff
+}
+
+
+p, h1, h2, h3, h4, h5, h6, span {
+  color: #fff;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+  overflow-y: auto;
+}
+
+body {
+  background: #8ea0dd; /* Old browsers */ background: -webkit-linear-gradient(left, #8ea0dd, #8e6ad3); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(to right, #8ea0dd, #8e6ad3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  min-height: 100vh;
+  // background: #f59ec2; /* Old browsers */ background: -webkit-linear-gradient(left, #f59ec2, #e26ea5, #ce3c87); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(to right, #f59ec2, #e26ea5, #ce3c87); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  // background: #269ef1; /* Old browsers */ background: -webkit-linear-gradient(left, #269ef1, #7036be); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(to right, #269ef1, #7036be); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  // background: linear-gradient(to right, #f5abd7, #59c4cd);
+  // background: linear-gradient(80deg, #1e5799 0%,#2989d8 36%,#207cca 66%,#7db9e8 100%);
+}
+
+ul, ol, h1, h2, h3, h4, h5, h6, p {
+  padding: 0;
+  margin: 0;
+}
+
+ul li, ol li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #fff
+}
+
+.hidden, .hide {
+  display: none;
+}
+
+
+body.fixed {
+  overflow: hidden;
+}
+
+
+
+.sc-fFubgz.evBRaK{
+  color: white !important;
+}
+
+
+.sc-idOhPF.kBqymE{
+  color: #f8f9fa !important;
+}
+
+
+.sc-giIncl.goFJak {
+  color: #fff !important
+}
+
+
+.sc-dtwoBo.eYzclB {
+  color: #fff !important
+}
+
+
+.sc-bZSQDF.gUnaXD {
+  color: #f8f9fa !important
+}
+
+
+.MpTg:before {
+  background: #f8f9fa !important
+}
+
+
+.sc-dkIXFM, .sc-XhUPp {
+  color: black !important;
+}
+
+
+.wood {
+  fill: #4C23DE !important
+}
+
+
+.sc-dwfUOf.cgnTKw {
+  background: #29099E !important
+}
+
+
+
+.sc-fodVxV.grMSAt, .sc-kIeTtH.jzNoKl {
+
+}
+
+
+.circle.redstone, .circle.greenstone {
+  user-select: none !important;
+  pointer-events: none !important;
+}
+
+.circle.greenstone {
+  opacity: 0.6 !important;
+  fill: #3FD471 !important;
+}
+
+.circle.bluestone {
+  opacity: 0.6 !important;
+  fill: blue !important;
+}
+
+.hints-div {
+  width: 100%;
+}
+
+.null-opacity {
+  opacity: 1 !important;
+}
+
+
+.sc-fbNXWD.gvjpLZ {
+  max-height: 2000px;
+}
+// .stone.placeholder:hover .circle.redstone.size-30 {
+//   display: none !important;
+// }
